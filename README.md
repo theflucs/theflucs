@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @theflucs
-- 👀 I’m interested in learning how Open Source works
+- 👀 I’m interested in Open Source
 - 💻 I'm a frontend developer in love with Vuejs
 - 🌱 I’m currently learning Python and Django
 - 💞️ I’m looking to collaborate on new or existing Open Source projects
