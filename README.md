@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @theflucs
+- 👋 Hi, I’m Sabrina
 - 👀 I’m interested in Open Source
 - 💻 I'm a frontend developer in love with Vuejs
 - 🌱 I’m currently learning Python and Django
